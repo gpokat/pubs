@@ -1,6 +1,8 @@
 Almost full list of released publications sorted by year:
 
-1. Unperturbed inverse kinematics nucleon knockout measurements with a 48 GeV/c carbon beam. M. Patsyuk, J. Kahlbow, G. Laskaris, M. Duer, V. Lenivenko, E.P. Segarra, T. Atovullaev, G. Johansson, T. Aumann, A. Corsi, O. Hen, ∗M. Kapishin, V. Panin, and E. Piasetzky et al. (The BM@N Collaboration) 04 Feb 2021
+1. Unperturbed inverse kinematics nucleon knockout measurements with a 48 GeV/c carbon beam. M. Patsyuk, J. Kahlbow, G. Laskaris, M. Duer, V. Lenivenko, E.P. Segarra, T. Atovullaev, G. Johansson, T. Aumann, A. Corsi, O. Hen, ∗M. Kapishin, V. Panin, and E. Piasetzky et al. (The BM@N Collaboration) (2021) 04 Feb 2021
+
+2. Large area BM@N GEM detectors Galavanov, A.; Kapishin, M.; Karjavine, V.; Khabarov, S.; Kulish, E.; Lenivenko, V.; Makankin, A.; Maksymchuk, A.; De Oliveira, R.; Piyadin, S.; Pokatashkin, G.; Rufanov, I.; Vasiliev, S. Journal of Physics: Conference Series, Volume 1498, Issue 1, article id. 012043 (2020).
 
 1.	Tracking system performance of the BM@N experiment, M. Kapishin, V. Lenivenko, V. Palichik, G. Pokatashkin, I. Rufanov, V. Vasendina, N. Voytishin, A. Zinchenko, European Physical Journal Web of Conferences, 214, EPJ Web of Conferences 214, 02021 (2019), 2019
  
