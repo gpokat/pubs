@@ -3,10 +3,12 @@ Almost full list of released publications sorted by year:
 1. Unperturbed inverse kinematics nucleon knockout measurements with a 48 GeV/c carbon beam. M. Patsyuk, J. Kahlbow, G. Laskaris, M. Duer, V. Lenivenko, E.P. Segarra, T. Atovullaev, G. Johansson, T. Aumann, A. Corsi, O. Hen, ∗M. Kapishin, V. Panin, and E. Piasetzky et al. (The BM@N Collaboration) (2021) 04 Feb 2021
 
 2. Large area BM@N GEM detectors Galavanov, A.; Kapishin, M.; Karjavine, V.; Khabarov, S.; Kulish, E.; Lenivenko, V.; Makankin, A.; Maksymchuk, A.; De Oliveira, R.; Piyadin, S.; Pokatashkin, G.; Rufanov, I.; Vasiliev, S. Journal of Physics: Conference Series, Volume 1498, Issue 1, article id. 012043 (2020).
+   
+3. Study of the BM@N GEM/CSC tracking system performance, Galavanov, Andrei; Kapishin, Mikhail; Karjavine, Vladimir; Khabarov, Sergey; Kiryushin, Yuri; Kulish, Elena; Kuzmin, Nikolai; Lenivenko, Vasilisa; Makankin, Alexander; Maksymchuk, Anna; Piyadin, Semen; Plotnikov, Vasily; Pokatashkin, Gleb; Rufanov, Igor; Rumyantcev, Mikhail; Vishnevskiy, Alexander; Vasiliev, Sergey. AIP Conference Proceedings, Volume 2163, Issue 1, id.030003  OCT 2019
 
-1.	Tracking system performance of the BM@N experiment, M. Kapishin, V. Lenivenko, V. Palichik, G. Pokatashkin, I. Rufanov, V. Vasendina, N. Voytishin, A. Zinchenko, European Physical Journal Web of Conferences, 214, EPJ Web of Conferences 214, 02021 (2019), 2019
+4.	Tracking system performance of the BM@N experiment, M. Kapishin, V. Lenivenko, V. Palichik, G. Pokatashkin, I. Rufanov, V. Vasendina, N. Voytishin, A. Zinchenko, European Physical Journal Web of Conferences, 214, EPJ Web of Conferences 214, 02021 (2019), 2019
  
-2.	Performance of the BM@N GEM/CSC tracking system at the Nuclotron beam, A. Galavanov, M. Kapishin, K. Kapusniak, V. Karjavine, S. Khabarov, Y. Kirushin, A. Kolesnikov, E. Kulish, V. Lenivenko, A. Makankin, A. Maksymchuk, B. Mehl, R. De Oliveira, G. Pokatashkin,V. Plotnikov, A. Rodriguez, M. Rumyantcev, I. Rufanov, V. Sidorenko, S. Vasiliev and A. Vishnevskiy, EPJ Web of Conferences, 204, 07009, 2019
+5.	Performance of the BM@N GEM/CSC tracking system at the Nuclotron beam, A. Galavanov, M. Kapishin, K. Kapusniak, V. Karjavine, S. Khabarov, Y. Kirushin, A. Kolesnikov, E. Kulish, V. Lenivenko, A. Makankin, A. Maksymchuk, B. Mehl, R. De Oliveira, G. Pokatashkin,V. Plotnikov, A. Rodriguez, M. Rumyantcev, I. Rufanov, V. Sidorenko, S. Vasiliev and A. Vishnevskiy, EPJ Web of Conferences, 204, 07009, 2019
 
 3.	Study of the GEM detector performance in BM@N experiment, S. Bazylev, M. Kapishin, K. Kapusniak, V. Karjavine, S. Khabarov, A. Kolesnikov, E. Kulish, V. Lenivenko, A. Makankin, A. Maksymchuk, G. Pokatashkin, et al., EPJ Web of Conferences, ISSN: 2100-014X, 177, 2018
 
